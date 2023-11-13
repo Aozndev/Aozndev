@@ -21,7 +21,7 @@
 <a href = "#"><img src="https://img.shields.io/badge/-PowerShell-0D1117?style=for-the-badge&logo=powershell&labelColor=0D1117" target="_blank"></a>
 <a href = "#"><img src="https://img.shields.io/badge/-Sqlite-0D1117?style=for-the-badge&logo=sqlite&labelColor=0D1117" target="_blank"></a>
 
- <a href = "#"><img align="right" alt="Aozndev" height="150" style="border-radius:100%;" src="https://cdn.discordapp.com/attachments/1093186973851729993/1093214605364432977/Screenshot_5.png?width=473&height=473" target="_blank"></a>
+ <a href = "#"><img align="right" alt="Aozndev" height="150" style="border-radius:100%;" src="[https://cdn.discordapp.com/attachments/1093186973851729993/1093214605364432977/Screenshot_5.png?](https://cdn.discordapp.com/avatars/994037361824518164/a_1e9c629eec6106b48ab4b10acd6233f1.gif?size=1024)width=473&height=473" target="_blank"></a>
 
 ### Studying:
 <a href = "#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117" target="_blank"></a>
